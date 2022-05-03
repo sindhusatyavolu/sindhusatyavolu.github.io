@@ -2364,15 +2364,14 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 8px;
+		border-radius: 50%;
 		border: 0;
 		display: inline-block;
 		position: relative;
-		object-fit: cover;
 	}
 
 		.image img {
-			border-radius: 8px;
+			border-radius: 50%;
 			display: block;
 		}
 
