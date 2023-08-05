@@ -86,10 +86,10 @@ author:
   location         : 
   employer         :
   pubmed           :
-    links:
+  links            :
     - label: "NASA/ADS"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   ads              : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   googlescholar    : "https://scholar.google.com/citations?user=ZEYMVn0AAAAJ&hl=en&oi=ao"
   email            : "sindhu@theory.tifr.res.in"
