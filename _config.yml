@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-#atom_feed:
-#  path                   : # blank (default) uses feed.xml
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -86,16 +86,13 @@ author:
   location         : 
   employer         :
   pubmed           :
+    links:
+    - label: "NASA/ADS"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   ads              : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   googlescholar    : "https://scholar.google.com/citations?user=ZEYMVn0AAAAJ&hl=en&oi=ao"
   email            : "sindhu@theory.tifr.res.in"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
   foursquare       :
   github           : "sindhusatyavolu"
   google_plus      :
@@ -105,23 +102,6 @@ author:
   lastfm           :
   linkedin         : "www.linkedin.com/in/sindhu-satyavolu-1b4881124"
   orcid            : "http://orcid.org/0000-0001-5818-6838"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  links:
-    - label: "NASA/ADS"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-  
-
 
 # Reading Files
 include:
