@@ -3,6 +3,8 @@ title: "The need for obscured supermassive black hole growth to explain quasar p
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2023-05-01
+venue: MNRAS
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
