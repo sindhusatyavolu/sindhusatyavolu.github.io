@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sindhu Satyavolu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sindhu Satyavolu"
 description              : &description "personal description"
