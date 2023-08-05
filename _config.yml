@@ -105,7 +105,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - fonts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
