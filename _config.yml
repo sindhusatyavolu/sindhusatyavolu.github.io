@@ -116,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "NASA/ADS"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Satyavolu%2CSindhu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   
 
 
