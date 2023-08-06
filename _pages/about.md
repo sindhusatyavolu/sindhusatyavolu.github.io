@@ -14,7 +14,7 @@ Research in Extragalactic Astrophysics and Cosmology
 ======
 Quasars are the brightest astrophysical sources in the Universe, powered by supermassive black holes. Several quasars have been observed as far as ~13 billion years back in time, having central supermassive black holes billion times more massive than the Sun. These quasars also act as a backlight, allowing us to look through the intergalactic medium between us and the quasar. That being so, what can we learn about the intergalactic medium from quasars? How did the supermassive black holes of quasars grow so massive within only a billion years after Big Bang? 
 I mainly use simulations to model quasar spectra at the end of the reionisation epoch to probe answers to the above questions.
-
+I'm also a member of the [XQR-30](https://xqr30.inaf.it) and EREBUS-JWST collaborations for studying high-redshift quasars.
 
 
 
