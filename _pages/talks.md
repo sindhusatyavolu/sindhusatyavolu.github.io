@@ -5,13 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-Hi, my full name is Sindhu Sri Sravya Satyavolu. I'm a PhD student working with [Prof. Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/) in the Department of Theoretical Physics at Tata Institute of Fundamental Research (TIFR), Mumbai. I previously studied engineering in the Department of Physics and Electrical Engineering at Indian Institute of Technology (IIT) Madras.					
-
-Research in Extragalactic Astrophysics and Cosmology
-======
-Quasars are the brightest astrophysical sources in the Universe, powered by supermassive black holes. Several quasars have been observed as far as ~13 billion years back in time, having central supermassive black holes billion times more massive than the Sun. These quasars also act as a backlight, allowing us to look through the intergalactic medium between us and the quasar. That being so, how did supermassive black holes grow so massive within only a billion years after Big Bang? What can we learn about the intergalactic medium from quasars? 
-I mainly use simulations to model quasar spectra at the end of the reionisation epoch to probe answers to the above questions.
-
+1. Contributed talk, [Reionisation in the Summer]("https://sites.google.com/view/reionisation-in-the-summer/home?authuser=0"), MPIA Heidelberg, June 26, 2023
+2. Presentation in Hernquist group meeting, Harvard-Smithsonian CfA, June 23, 2023
+3. Contributed talk, [First light conference]("https://www.mit.edu/~eilers/firstlight.html"), MIT, June 12, 2023
+4. Contributed talk, [Largest Cosmological Surveys and Big Data Science](https://youtu.be/SrK4a9grnto), ICTS-TIFR Bangalore, May 9 , 2023
+5. Contributed talk, [Cosmology on Safari]("https://cosmosafari.co.za/programme/"), Hluhluwe, South Africa, Mar 9, 2023
+6. Contributed talk, [Astronomical Society of India meeting]("https://astron-soc.in/asi2023/program"), IIT Indore, Mar 2, 2023
+7. Seminar, [State of the Universe]("https://theory.tifr.res.in/~sotu/previous.php#2022October"), TIFR, Oct 7, 2022
+8. Contributed poster and flash talk, The National Astronomy Meeting 2022, Online, July 12, 2022
 
 
 
