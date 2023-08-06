@@ -5,6 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 date: 2023-05-01
 venue: MNRAS
+authorship: First author
 ---
 
 [Download paper here](http://academicpages.github.io/My_papers/stad729.pdf)
