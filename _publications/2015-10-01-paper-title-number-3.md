@@ -7,5 +7,5 @@ venue: MNRAS
 date: 2023-07-01
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/My_papers/stad1468.pdf)
 
