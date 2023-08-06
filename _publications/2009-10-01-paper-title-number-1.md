@@ -8,5 +8,5 @@ venue: MNRAS
 authorship: First author
 ---
 
-[Download paper here](http://academicpages.github.io/My_papers/stad729.pdf)
+[Download paper here](http://sindhusatyavolu.github.io/tree/master/My_papers/stad729.pdf)
 
