@@ -4,17 +4,6 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-<!--
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
--->
 
 Hi, my full name is Sindhu Sri Sravya Satyavolu. I'm a PhD student working with [Prof. Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/) in the Department of Theoretical Physics at Tata Institute of Fundamental Research (TIFR), Mumbai. I previously studied engineering in the Department of Physics and Electrical Engineering at Indian Institute of Technology (IIT) Madras.					
 
