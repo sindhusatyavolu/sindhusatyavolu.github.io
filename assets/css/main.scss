@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image:url(’{{ site.baseurl }}/assets/images/site-logo.png’);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
