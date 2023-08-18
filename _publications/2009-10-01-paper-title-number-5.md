@@ -2,7 +2,7 @@
 title: "Probing Ultra-late Reionization: Direct Measurements of the Mean Free Path over  5<z<6"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
-paperurl: 'http://sindhusatyavolu.github.io/My_papers/stad729.pdf'
+paperurl: 'http://sindhusatyavolu.github.io/My_papers/2308.04614.pdf'
 date: 2023-08-01
 venue: MNRAS
 authorship: Contributing author
@@ -19,4 +19,4 @@ the Lyman continuum transmission profile in stacked QSO spectra, we find λ = 9.
 that λmfp increases steadily and rapidly with time over 5 < z < 6. Notably, we find that λmfp deviates significantly from predictions based on a fully ionized and relaxed IGM as late as z = 5.3. By comparing our results to model predictions and indirect λmfp constraints based on IGM Lyα opacity, we find that the λmfp evolution is consistent with scenarios wherein the IGM is still undergoing reionization and/or retains large fluctuations in the ionizing UV background well below redshift six.
 
 
-[Download paper here](http://sindhusatyavolu.github.io/My_papers/stad729.pdf)
+[Download paper here](http://sindhusatyavolu.github.io/My_papers/2308.04614.pdf)
