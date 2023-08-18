@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
 paperurl: 'http://sindhusatyavolu.github.io/My_papers/2308.04614.pdf'
 date: 2023-08-01
-venue: MNRAS
+venue: ApJ
 authorship: Contributing author
 ---
 Abstract:
