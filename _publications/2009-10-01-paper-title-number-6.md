@@ -21,4 +21,4 @@ at this redshift also does not affect the measurements significantly. Fitting ou
 𝜆mfp = 0.90+0.66 pMpc at 𝑧 = 6, which is consistent with the recent measurements in the literature, indicating robustness with −0.40
 respect to the modelling of quasar proximity zones. We also compare various ways in which the mean free path has been defined in simulations before the end of reionization. Overall, our finding is that recent measurements of the mean free path appear to be robust relative to several sources of potential bias.
 
-[Download paper here](http://sindhusatyavolu.github.io/My_papers/stad729.pdf)
+[Download paper here](http://sindhusatyavolu.github.io/My_papers/2311.06344.pdf)
