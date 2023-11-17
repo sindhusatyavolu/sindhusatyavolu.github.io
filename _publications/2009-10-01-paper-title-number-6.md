@@ -2,7 +2,7 @@
 title: "Robustness of direct measurements of the mean free path of ionizing photons in the epoch of reionization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-6
-paperurl: 'http://github.com/sindhusatyavolu/sindhusatyavolu.github.io/My_papers/2311.06344.pdf'
+paperurl: 'http://sindhusatyavolu.github.io/My_papers/2311.06344.pdf'
 venue: arXiv
 date: 2023-01-11
 authorship: First author
