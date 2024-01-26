@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, My full name is Sindhu Sri Sravya Satyavolu. I'm a PhD student working with [Prof. Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/) in the Department of Theoretical Physics at Tata Institute of Fundamental Research (TIFR), Mumbai. I previously studied engineering in the Department of Physics and Electrical Engineering at Indian Institute of Technology (IIT) Madras.					
+Hi! My full name is Sindhu Sri Sravya Satyavolu. I'm a PhD student working with [Prof. Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/) in the Department of Theoretical Physics at Tata Institute of Fundamental Research (TIFR), Mumbai. I previously studied engineering in the Department of Physics and Electrical Engineering at Indian Institute of Technology (IIT) Madras.					
 
 Research in Extragalactic Astrophysics and Cosmology
 ======
