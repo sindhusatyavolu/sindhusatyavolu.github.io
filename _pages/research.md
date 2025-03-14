@@ -14,10 +14,10 @@ That being so, what can we learn about the intergalactic medium and the cosmolog
 I use simulations and observations of quasar spectra across several redshifts to probe answers to the above questions.
 I'm a member of the [XQR-30](https://xqr30.inaf.it), EREBUS-JWST collaborations for observing and studying high-redshift quasars, as well as the Dark Energy Spectroscopic Instrument (DESI) collaboration.
 
-Quasars in the Epoch of Reionization 
+<!--Quasars in the Epoch of Reionization 
 ======
 
 
 
 The Lyman alpha forest as a cosmological probe 
-======
+====== -->
