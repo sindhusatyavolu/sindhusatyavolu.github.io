@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Research"
+title: "Research in Extragalactic Astrophysics and Cosmology"
 permalink: /research/
 author_profile: true
 
