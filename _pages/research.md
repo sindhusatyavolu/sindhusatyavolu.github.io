@@ -3,8 +3,7 @@ layout: archive
 title: "My Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 (Under construction)
