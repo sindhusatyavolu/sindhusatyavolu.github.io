@@ -56,5 +56,5 @@ has been directly measured. We critically assess the analytic models used in pre
 patchiness in reionization around quasars is<25%,and the bias from quasar lifetimes is<10% at z∼6. Further,we develop a new technique to directly measure the MFP by fitting our model stacks to the observed LyC stack. Our meanfreepath measurement is 1.49+0.47−0.52 pMpc at
 z=6,reconciling both direct and indirect measurements in the literature.
 
-The Lyman alpha forest as a cosmological probe 
-====== 
+<!--The Lyman alpha forest as a cosmological probe 
+======  -->
