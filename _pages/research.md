@@ -28,11 +28,12 @@ consistent with several post-reionization observables. By post-processing this s
 a one-dimensional radiative transfer model, we analyze quasar proximity zones within an
 inhomogeneously reionized intergalactic medium at redshift z~6. 
 
+![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.pdf)
 
 
 In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
 residual neutral hydrogen islands at z~6 reduce quasar proximity zone sizes by up to 30%,
-with a more significant effect at higherredshifts. We also study the impact of quasar variability
+with a more significant effect at higher redshifts. We also study the impact of quasar variability
 on proximity zone sizes using a toy model. Our comparison with observations suggests that
 quasars have a short duty cycle of f∼0.1 and an episodic lifetime of ~1 Myr. We further
 show that reconciling such variability with SMBH masses requires the black hole to continue
