@@ -16,6 +16,8 @@ Quasar Proximity Zones in the Epoch of Reionization
 ======
 
 
+![Drag Racing](https://github.com/sindhusatyavolu/sindhusatyavolu.github.io/My_papers/proximityzone_illustration.png)
+
 
 
 The Lyman alpha forest as a cosmological probe 
