@@ -16,7 +16,7 @@ Quasar Proximity Zones in the Epoch of Reionization
 ======
 
 
-![Drag Racing](https://github.com/sindhusatyavolu/sindhusatyavolu.github.io/My_papers/proximityzone_illustration.png)
+![Drag Racing](http://sindhusatyavolu.github.io/My_papers/proximityzone_illustration.png)
 
 
 
