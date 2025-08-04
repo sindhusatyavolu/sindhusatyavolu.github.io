@@ -30,7 +30,6 @@ inhomogeneously reionized intergalactic medium at redshift z~6.
 
 ![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.png)
 
-
 In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
 residual neutral hydrogen islands at z~6 reduce quasar proximity zone sizes by up to 30%,
 with a more significant effect at higher redshifts. We also study the impact of quasar variability
