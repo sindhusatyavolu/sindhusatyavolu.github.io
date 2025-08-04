@@ -51,7 +51,7 @@ the late stages of cosmic reionization to 87. The catalog of all these measureme
 
 <!-- ![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/mfpresult_mcmc_covmatrix.png) -->
 
-In [Satyavolu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..676S/abstract), we use the above simulations of quasar proximity zones to model their Lyman continuum(LyC)spectra,using which the meanfreepath(MFP) of hydrogen ionizing photons
+In [Satyavolu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..676S/abstract), we use the above simulations of quasar proximity zones to model their Lyman continuum (LyC) spectra, using which the mean free path (MFP) of hydrogen ionizing photons
 has been directly measured. We critically assess the analytic models used in previous measurements of the MFP for potential biases from quasar environments,their lifetimes and incomplete reionization around quasar proximity zones. We show that the bias from overdensities and
 patchiness in reionization around quasars is<25%,and the bias from quasar lifetimes is<10% at z∼6. Further,we develop a new technique to directly measure the MFP by fitting our model stacks to the observed LyC stack. Our meanfreepath measurement is 1.49+0.47−0.52 pMpc at
 z=6,reconciling both direct and indirect measurements in the literature.
