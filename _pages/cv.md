@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<!---[Download here](http://sindhusatyavolu.github.io/My_papers/CV_Sindhu_Master_Aug25.pdf)-->
-Under construction
+[Download here](http://sindhusatyavolu.github.io/My_papers/CV_Sindhu_Master_Aug25.pdf)
+Updated in August 2025
