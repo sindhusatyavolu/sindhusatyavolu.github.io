@@ -28,7 +28,7 @@ consistent with several post-reionization observables. By post-processing this s
 a one-dimensional radiative transfer model, we analyze quasar proximity zones within an
 inhomogeneously reionized intergalactic medium at redshift z~6. 
 
-![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.pdf)
+![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.png)
 
 
 In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
