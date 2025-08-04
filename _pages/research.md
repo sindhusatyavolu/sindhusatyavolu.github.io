@@ -26,7 +26,11 @@ and observations of quasar proximity zones around z∼6. We utilized high-dynami
 cosmological hydrodynamical radiative transfer simulations with a late reionization history
 consistent with several post-reionization observables. By post-processing this simulation with
 a one-dimensional radiative transfer model, we analyze quasar proximity zones within an
-inhomogeneously reionized intergalactic medium at redshift z~6. In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
+inhomogeneously reionized intergalactic medium at redshift z~6. 
+
+
+
+In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
 residual neutral hydrogen islands at z~6 reduce quasar proximity zone sizes by up to 30%,
 with a more significant effect at higherredshifts. We also study the impact of quasar variability
 on proximity zone sizes using a toy model. Our comparison with observations suggests that
