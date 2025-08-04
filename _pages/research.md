@@ -40,7 +40,7 @@ to grow and accrete during its obscured phase. The consequent obscured fractions
 higher are consistent with low-redshift measurements and models of black hole accretion, and
 will also be tested with our upcoming observations using JWST.
 
-
+![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/xqr30_rp_measurements.png)
 
 In [Satyavolu et al. 2023b](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4918S/abstract), we present 22 new measurements of proximity zones for quasars with redshifts
 between 5.8 and 6.6, utilizing the expanded XQR-30 sample of high-resolution, high-SNR
