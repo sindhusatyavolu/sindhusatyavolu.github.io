@@ -28,7 +28,7 @@ consistent with several post-reionization observables. By post-processing this s
 a one-dimensional radiative transfer model, we analyze quasar proximity zones within an
 inhomogeneously reionized intergalactic medium at redshift z~6. 
 
-![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.png)
+<!-- ![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/Rp_model.png) -->
 
 In [Satyavolu et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3108S/abstract), we show that the
 residual neutral hydrogen islands at z~6 reduce quasar proximity zone sizes by up to 30%,
@@ -40,7 +40,7 @@ to grow and accrete during its obscured phase. The consequent obscured fractions
 higher are consistent with low-redshift measurements and models of black hole accretion, and
 will also be tested with our upcoming observations using JWST.
 
-![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/xqr30_rp_measurements.png)
+<!-- ![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/xqr30_rp_measurements.png) -->
 
 In [Satyavolu et al. 2023b](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4918S/abstract), we present 22 new measurements of proximity zones for quasars with redshifts
 between 5.8 and 6.6, utilizing the expanded XQR-30 sample of high-resolution, high-SNR
@@ -49,7 +49,7 @@ uncertainties below 0.5 physical Mpc, which, for the first time, also includes u
 quasar continuum. With this,we increase the total number of proximity zone measurements in
 the late stages of cosmic reionization to 87. The catalog of all these measurements can be downloaded here.
 
-![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/mfpresult_mcmc_covmatrix.png)
+<!-- ![Drag Racing2](http://sindhusatyavolu.github.io/My_papers/mfpresult_mcmc_covmatrix.png) -->
 
 In [Satyavolu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..676S/abstract), we use the above simulations of quasar proximity zones to model their Lyman continuum(LyC)spectra,using which the meanfreepath(MFP) of hydrogen ionizing photons
 has been directly measured. We critically assess the analytic models used in previous measurements of the MFP for potential biases from quasar environments,their lifetimes and incomplete reionization around quasar proximity zones. We show that the bias from overdensities and
